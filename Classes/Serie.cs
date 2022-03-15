@@ -44,7 +44,6 @@ namespace series.Classes
         {
             return this.Excluido;
         }
-
         public void excluir(){
             this.Excluido = true;
         }
