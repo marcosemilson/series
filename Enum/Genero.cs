@@ -15,6 +15,5 @@ namespace series
         Romance = 11,
         Suspense = 12,
         Terror = 13
-
     }
 }
